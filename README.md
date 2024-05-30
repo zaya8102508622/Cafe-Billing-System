@@ -8,3 +8,8 @@
   Billing Calculation: Automatically calculate total charges for orders.
 
   Payment Processing: Accept various payment methods and generate receipts.
+
+# Author
+This Cafe Billing System is created and maintained by Zaya Bharti.
+
+Happy Coding! 😊
